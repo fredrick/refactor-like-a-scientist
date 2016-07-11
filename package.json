@@ -1,0 +1,26 @@
+{
+  "name": "scientific-refactoring",
+  "version": "1.0.0",
+  "description": "Companion code and exercises for \"Refactor Like a Scientist\"",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredrick/scientific-refactoring.git"
+  },
+  "author": "Fredrick Galoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredrick/scientific-refactoring/issues"
+  },
+  "homepage": "https://github.com/fredrick/scientific-refactoring#readme",
+  "dependencies": {
+    "left-pad": "^1.1.1",
+    "scientist": "^1.1.0"
+  }
+}
